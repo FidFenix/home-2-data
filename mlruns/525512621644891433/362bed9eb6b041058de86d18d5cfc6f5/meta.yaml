@@ -1,0 +1,14 @@
+artifact_uri: file:///Volumes/hack/projects/home-2-data/mlruns/525512621644891433/362bed9eb6b041058de86d18d5cfc6f5/artifacts
+end_time: 1763215301042
+entry_point_name: ''
+experiment_id: '525512621644891433'
+lifecycle_stage: active
+run_id: 362bed9eb6b041058de86d18d5cfc6f5
+run_name: blushing-stag-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763215301033
+status: 3
+tags: []
+user_id: fidfenix

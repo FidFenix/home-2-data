@@ -1,0 +1,10 @@
+artifact_location: file:///Volumes/hack/projects/home-2-data/mlruns/525512621644891433/models/m-c62023bcd40649ba84436510129f526d/artifacts
+creation_timestamp: 1763215314480
+experiment_id: '525512621644891433'
+last_updated_timestamp: 1763215315891
+model_id: m-c62023bcd40649ba84436510129f526d
+model_type: null
+name: Decision_Tree_pipeline
+source_run_id: 1734c9841789458d9ea016a88eda6f76
+status: 2
+status_message: null

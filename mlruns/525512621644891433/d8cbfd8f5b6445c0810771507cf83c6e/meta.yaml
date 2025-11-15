@@ -1,0 +1,14 @@
+artifact_uri: file:///Volumes/hack/projects/home-2-data/mlruns/525512621644891433/d8cbfd8f5b6445c0810771507cf83c6e/artifacts
+end_time: 1763191384171
+entry_point_name: ''
+experiment_id: '525512621644891433'
+lifecycle_stage: active
+run_id: d8cbfd8f5b6445c0810771507cf83c6e
+run_name: 03_Model_Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763191380353
+status: 3
+tags: []
+user_id: fidfenix

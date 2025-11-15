@@ -1,0 +1,14 @@
+artifact_uri: file:///Volumes/hack/projects/home-2-data/mlruns/525512621644891433/cb450e5c158840f7b014f4c8fbb1099b/artifacts
+end_time: 1763215294249
+entry_point_name: ''
+experiment_id: '525512621644891433'
+lifecycle_stage: active
+run_id: cb450e5c158840f7b014f4c8fbb1099b
+run_name: 02_Data_Preprocessing_and_Pipeline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763215277463
+status: 3
+tags: []
+user_id: fidfenix

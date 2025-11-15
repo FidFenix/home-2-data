@@ -1,0 +1,10 @@
+artifact_location: file:///Volumes/hack/projects/home-2-data/mlruns/525512621644891433/models/m-1e560f7786c840b887c3339b0d578261/artifacts
+creation_timestamp: 1763191376543
+experiment_id: '525512621644891433'
+last_updated_timestamp: 1763191378647
+model_id: m-1e560f7786c840b887c3339b0d578261
+model_type: null
+name: Logistic_Regression_pipeline
+source_run_id: 6a717760943a4ef9ba0b3f29e3536d51
+status: 2
+status_message: null

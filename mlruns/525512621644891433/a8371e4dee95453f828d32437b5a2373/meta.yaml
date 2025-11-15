@@ -1,0 +1,14 @@
+artifact_uri: file:///Volumes/hack/projects/home-2-data/mlruns/525512621644891433/a8371e4dee95453f828d32437b5a2373/artifacts
+end_time: 1763216068730
+entry_point_name: ''
+experiment_id: '525512621644891433'
+lifecycle_stage: active
+run_id: a8371e4dee95453f828d32437b5a2373
+run_name: 03_Model_Logistic_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763216066537
+status: 3
+tags: []
+user_id: fidfenix

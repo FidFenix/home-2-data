@@ -1,0 +1,10 @@
+artifact_location: file:///Volumes/hack/projects/home-2-data/mlruns/525512621644891433/models/m-39da48eddcb84e9c8d894ddbdf3d6b79/artifacts
+creation_timestamp: 1763203964436
+experiment_id: '525512621644891433'
+last_updated_timestamp: 1763203966680
+model_id: m-39da48eddcb84e9c8d894ddbdf3d6b79
+model_type: null
+name: tuned_random_forest_pipeline
+source_run_id: 0d08890bcaa440f1a4e48e218e92336c
+status: 2
+status_message: null

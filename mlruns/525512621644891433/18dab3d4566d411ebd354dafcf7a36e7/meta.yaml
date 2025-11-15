@@ -1,0 +1,14 @@
+artifact_uri: file:///Volumes/hack/projects/home-2-data/mlruns/525512621644891433/18dab3d4566d411ebd354dafcf7a36e7/artifacts
+end_time: 1763219642339
+entry_point_name: ''
+experiment_id: '525512621644891433'
+lifecycle_stage: active
+run_id: 18dab3d4566d411ebd354dafcf7a36e7
+run_name: 03_Model_XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763219640606
+status: 3
+tags: []
+user_id: fidfenix

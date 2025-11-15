@@ -1,0 +1,22 @@
+artifact_path: file:///Volumes/hack/projects/home-2-data/mlruns/525512621644891433/models/m-7139d2d13b4643878c039c079c880f77/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-7139d2d13b4643878c039c079c880f77
+model_size_bytes: 4233
+model_uuid: m-7139d2d13b4643878c039c079c880f77
+prompts: null
+run_id: a8371e4dee95453f828d32437b5a2373
+utc_time_created: '2025-11-15 14:14:26.687509'

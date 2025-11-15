@@ -1,0 +1,14 @@
+artifact_uri: file:///Volumes/hack/projects/home-2-data/mlruns/525512621644891433/154345b4403c4fd28dec4e2c15c58ca2/artifacts
+end_time: 1763192737618
+entry_point_name: ''
+experiment_id: '525512621644891433'
+lifecycle_stage: active
+run_id: 154345b4403c4fd28dec4e2c15c58ca2
+run_name: 04_Hyperparameter_Tuning_GridSearchCV
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763192695239
+status: 3
+tags: []
+user_id: fidfenix

@@ -1,0 +1,10 @@
+artifact_location: file:///Volumes/hack/projects/home-2-data/mlruns/525512621644891433/models/m-d994209cfbf4427589c99fdb9e6060f5/artifacts
+creation_timestamp: 1763219640973
+experiment_id: '525512621644891433'
+last_updated_timestamp: 1763219642337
+model_id: m-d994209cfbf4427589c99fdb9e6060f5
+model_type: null
+name: XGBoost_pipeline
+source_run_id: 18dab3d4566d411ebd354dafcf7a36e7
+status: 2
+status_message: null
