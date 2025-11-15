@@ -1,0 +1,14 @@
+artifact_uri: file:///home/fidel/projects/home-2-data/mlruns/632852180400188707/7ad92820bb9c4ab2b90b8282e7ce55c8/artifacts
+end_time: 1763236742978
+entry_point_name: ''
+experiment_id: '632852180400188707'
+lifecycle_stage: active
+run_id: 7ad92820bb9c4ab2b90b8282e7ce55c8
+run_name: 03_Model_Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763236737111
+status: 3
+tags: []
+user_id: fidel

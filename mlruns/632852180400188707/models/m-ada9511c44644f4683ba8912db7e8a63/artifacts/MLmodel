@@ -1,0 +1,22 @@
+artifact_path: file:///home/fidel/projects/home-2-data/mlruns/632852180400188707/models/m-ada9511c44644f4683ba8912db7e8a63/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-ada9511c44644f4683ba8912db7e8a63
+model_size_bytes: 44619288
+model_uuid: m-ada9511c44644f4683ba8912db7e8a63
+prompts: null
+run_id: 79243719cdbd4d1fb5a87abcce62dea5
+utc_time_created: '2025-11-15 20:02:48.626682'

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/fidel/projects/home-2-data/mlruns/632852180400188707/d068502c1a0e41fd824bd5ab082cbf35/artifacts
+end_time: 1763236717181
+entry_point_name: ''
+experiment_id: '632852180400188707'
+lifecycle_stage: active
+run_id: d068502c1a0e41fd824bd5ab082cbf35
+run_name: 02_Data_Preprocessing_and_Pipeline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763236707432
+status: 3
+tags: []
+user_id: fidel

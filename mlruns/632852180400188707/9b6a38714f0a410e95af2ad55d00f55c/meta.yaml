@@ -1,0 +1,14 @@
+artifact_uri: file:///home/fidel/projects/home-2-data/mlruns/632852180400188707/9b6a38714f0a410e95af2ad55d00f55c/artifacts
+end_time: 1763237577988
+entry_point_name: ''
+experiment_id: '632852180400188707'
+lifecycle_stage: active
+run_id: 9b6a38714f0a410e95af2ad55d00f55c
+run_name: 05_PyTorch_Neural_Network
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763237574551
+status: 3
+tags: []
+user_id: fidel

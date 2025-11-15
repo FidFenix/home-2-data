@@ -1,0 +1,10 @@
+artifact_location: file:///home/fidel/projects/home-2-data/mlruns/632852180400188707/models/m-a7272f0c3692404594611b0c154384ea/artifacts
+creation_timestamp: 1763236735394
+experiment_id: '632852180400188707'
+last_updated_timestamp: 1763236737106
+model_id: m-a7272f0c3692404594611b0c154384ea
+model_type: null
+name: Decision_Tree_pipeline
+source_run_id: afacc0cdef4b41398f659cbc8c064b56
+status: 2
+status_message: null

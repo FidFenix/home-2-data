@@ -1,0 +1,14 @@
+artifact_uri: file:///home/fidel/projects/home-2-data/mlruns/632852180400188707/cb99e83d40094fafbb845a084ea869e3/artifacts
+end_time: 1763236745727
+entry_point_name: ''
+experiment_id: '632852180400188707'
+lifecycle_stage: active
+run_id: cb99e83d40094fafbb845a084ea869e3
+run_name: 03_Model_XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763236742980
+status: 3
+tags: []
+user_id: fidel

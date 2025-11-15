@@ -1,0 +1,14 @@
+artifact_uri: file:///home/fidel/projects/home-2-data/mlruns/632852180400188707/79243719cdbd4d1fb5a87abcce62dea5/artifacts
+end_time: 1763236970949
+entry_point_name: ''
+experiment_id: '632852180400188707'
+lifecycle_stage: active
+run_id: 79243719cdbd4d1fb5a87abcce62dea5
+run_name: 04_Hyperparameter_Tuning_GridSearchCV
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763236802410
+status: 3
+tags: []
+user_id: fidel

@@ -1,0 +1,10 @@
+artifact_location: file:///home/fidel/projects/home-2-data/mlruns/632852180400188707/models/m-7a60792c328f444bad1e8bf8f0e24805/artifacts
+creation_timestamp: 1763236743805
+experiment_id: '632852180400188707'
+last_updated_timestamp: 1763236745724
+model_id: m-7a60792c328f444bad1e8bf8f0e24805
+model_type: null
+name: XGBoost_pipeline
+source_run_id: cb99e83d40094fafbb845a084ea869e3
+status: 2
+status_message: null

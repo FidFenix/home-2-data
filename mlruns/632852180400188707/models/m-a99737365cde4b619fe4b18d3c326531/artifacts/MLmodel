@@ -1,0 +1,23 @@
+artifact_path: file:///home/fidel/projects/home-2-data/mlruns/632852180400188707/models/m-a99737365cde4b619fe4b18d3c326531/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.19
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.9.1+cu128
+mlflow_version: 3.6.0
+model_id: m-a99737365cde4b619fe4b18d3c326531
+model_size_bytes: 73101
+model_uuid: m-a99737365cde4b619fe4b18d3c326531
+prompts: null
+run_id: 0fd444624d12448ab02ce38d75cfa0b7
+utc_time_created: '2025-11-15 20:33:56.430083'

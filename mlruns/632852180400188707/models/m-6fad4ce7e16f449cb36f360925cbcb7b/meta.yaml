@@ -1,0 +1,10 @@
+artifact_location: file:///home/fidel/projects/home-2-data/mlruns/632852180400188707/models/m-6fad4ce7e16f449cb36f360925cbcb7b/artifacts
+creation_timestamp: 1763236741072
+experiment_id: '632852180400188707'
+last_updated_timestamp: 1763236742960
+model_id: m-6fad4ce7e16f449cb36f360925cbcb7b
+model_type: null
+name: Random_Forest_pipeline
+source_run_id: 7ad92820bb9c4ab2b90b8282e7ce55c8
+status: 2
+status_message: null
